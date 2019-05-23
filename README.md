@@ -1,4 +1,4 @@
-# CRYPTOGRAPHY-ALGORTHMS
+# CRYPTOGRAPHY-ALGORITHMS
 Some of the popular symmetric and asymmetric crytography algorithms.
 
 All algorithms have been written in python 3.0 
